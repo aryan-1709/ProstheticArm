@@ -1,5 +1,5 @@
 # Prosthetic Arm
-
+<img src='https://res.cloudinary.com/dc7cojpvn/image/upload/v1732861212/WhatsApp_Image_2024-04-19_at_8.16.03_PM_fjzyyr.jpg' alt="#"></img>
 This project aims to create a prosthetic arm using robotic components to assist people with disabilities. The arm is designed to be affordable and reliable, making it accessible to a larger population. The project is divided into two phases.
 
 ## Phase 1
